@@ -1,0 +1,5 @@
+palavra = input('Digite uma palvra: ')
+palavra = palavra.upper()
+print(palavra)
+palavra = palavra.lower()
+print(palavra)

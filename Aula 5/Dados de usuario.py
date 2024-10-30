@@ -1,0 +1,5 @@
+nome = input('Digite seu primeiro nome: ')
+sobrenome = input('Digite seu sobrenome: ')
+idade = int(input('Digite a sua idade: '))
+altura = float(input('Digite a sua altura: '))
+print('Olá', nome, sobrenome, 'você tem', idade, 'anos e uma estatura de', altura, 'metros.')
